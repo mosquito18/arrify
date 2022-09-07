@@ -1,0 +1,19 @@
+{
+  "name": "arrify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosquito18/arrify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosquito18/arrify/issues"
+  },
+  "homepage": "https://github.com/mosquito18/arrify#readme"
+}
